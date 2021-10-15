@@ -12,4 +12,6 @@ a path to have working CI CD on windows enviroment
 * https://www.docker.com/get-started
 * https://docs.microsoft.com/en-us/windows/wsl/install
 
+* follow https://docs.microsoft.com/en-us/windows/wsl/install-manual
+
 # CONFIG
